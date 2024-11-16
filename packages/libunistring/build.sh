@@ -1,0 +1,7 @@
+preset=gnu
+name=libunistring
+version=1.1
+description="library for manipulating Unicode strings"
+checksum=a2252beeec830ac444b9f68d6b38ad883db19919db35b52222cf827c385bdb6a
+
+run_preset
